@@ -1,0 +1,9 @@
+Import database
+
+user "bike"
+pass "bike123"
+
+add privileges on geans.io database.
+
+statup: <server>/geans.io
+
